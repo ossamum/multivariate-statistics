@@ -11,7 +11,13 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+layout: true
+  
+<div class="my-footer"><span>
 
+<a href="https://www.linkedin.com/in/ossamum/">Milton Ossamu</a> - Email: <a href="mailto:milton.ossamu@gmail.com">milton.ossamu@gmail.com</a>
+</span></div>
+---
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE, 

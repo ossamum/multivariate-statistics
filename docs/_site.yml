@@ -1,15 +1,15 @@
 name: KU Leuven - Statistics & Data Science
 output_dir: '.'
 navbar:
-  title: KU Leuven - Statistics & Data Science
+  title: Statistics & Data Science
   left:
   - text: Multivariate Statistics
     href: multivariate_statistics.html
-  - text: Resources
-    href: data-vis-resources.html
+    icon: fa-arrows-alt
   right:
   - text: About
     href: about.html
+    icon: fa-address-book
 output:
   html_document:
     theme: flatly

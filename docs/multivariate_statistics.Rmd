@@ -22,7 +22,7 @@ The following are all *free* books, available to read online:
 knitr::include_url("slides_multivariate_statistics/01-pca.html")
 ```
 
-- R for Data Science, Workflow: Basics Chapter: http://r4ds.had.co.nz/workflow-basics.html
+- [Presentation](slides_multivariate_statistics/01-pca.html)
 
 ### 02: Exploratory Factor Analysis
 
