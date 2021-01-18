@@ -1,14 +1,12 @@
-name: CS631 Labs
+name: KU Leuven - Statistics & Data Science
 output_dir: '.'
 navbar:
-  title: CS631 Labs
+  title: KU Leuven - Statistics & Data Science
   left:
-  - text: Slides & Reading
-    href: slides.html
+  - text: Multivariate Statistics
+    href: multivariate_statistics.html
   - text: Resources
     href: data-vis-resources.html
-  - text: Sakai
-    href: https://sakai.ohsu.edu/portal/site/CS-631-1-32176-Sp18
   right:
   - text: About
     href: about.html
